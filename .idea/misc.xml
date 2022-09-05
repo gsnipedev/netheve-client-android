@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable-v24/image-48px.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_article_24.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_chat_bubble_outline_24.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_image_24.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_insert_invitation_24.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_newspaper_20.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_send_24.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_share_24.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_smart_display_24.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_thumb_up_24.xml" value="0.1495" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_visibility_24.xml" value="0.155" />
+        <entry key="..\:/Pemrograman/Kotlin-Android/Netheve/app/src/main/res/drawable/outline_visibility_off_24.xml" value="0.155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
